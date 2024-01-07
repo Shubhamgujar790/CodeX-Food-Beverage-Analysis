@@ -50,6 +50,6 @@ I used MySQL for the in-depth querying of the dataset, extracting valuable infor
 - **Best Buddies with Supermarkets:**
   - Work closely with supermarkets so more people can see and buy our drinks easily.
 
-▶️**Conclusion**
+▶️**Conclusion:**
 
  Being part of this Project taught me how to look at survey info and figure out what's important. What did I do with that? I gave CodeX some smart ideas to make their marketing plans better. It wasn't just a challenge; it was like turning a data into a plan & insights  for making decision.
