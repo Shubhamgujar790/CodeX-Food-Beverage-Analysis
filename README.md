@@ -20,7 +20,7 @@ I used MySQL for the in-depth querying of the dataset, extracting valuable infor
   - Online ads emerge as the most impactful and cost-efficient method to engage our target audience.
 
 - **Consumer Preference Profile:**
-  - Consumers lean towards energy drinks with caffeine and natural ingredients, aligning with the demand for healthier options.
+  - Consumers inclination towards energy drinks with caffeine and natural ingredients, aligning with the demand for healthier options.
 
 - **Untapped Potential in Tier 2 Cities:**
   - Tier 2 cities exhibit promising potential for expansion, representing untapped markets.
@@ -29,4 +29,21 @@ I used MySQL for the in-depth querying of the dataset, extracting valuable infor
   - 45% favor purchasing from supermarkets, while 25% opt for online channels.
 
 - **Health-Conscious Choices:**
-  - Consumers express a desire for healthier options, emphasizing preferences for reduced sugar and natural ingredients. 
+  - Consumers express a desire for healthier options, emphasizing preferences for reduced sugar and natural ingredients.
+ 
+  - **Practical Steps to Take:**
+
+- **Friends with Online Stars:**
+  - Team up with online stars to make online ads and expand business horizon.
+
+- **Go Natural with the Drink:**
+  - Make our drink better by adding natural ingredients like green tea extract vitamin B that people like.
+
+- **Smart Prices for Big and Small Cities:**
+  - Decide the prices in a smart way, making sure it's good for both big cities and smaller ones.
+
+- **Pick the Prettiest Package:**
+  - Try out different looks for our product packaging to see which one people like the most.
+
+- **Best Buddies with Supermarkets:**
+  - Work closely with supermarkets so more people can see and buy our drinks easily. 
