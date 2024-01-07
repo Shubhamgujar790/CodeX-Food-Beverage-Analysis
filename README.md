@@ -31,7 +31,8 @@ I used MySQL for the in-depth querying of the dataset, extracting valuable infor
 - **Health-Conscious Choices:**
   - Consumers express a desire for healthier options, emphasizing preferences for reduced sugar and natural ingredients.
  
-  - **Practical Steps to Take:**
+
+    **Practical Steps to Take:**
 
 - **Friends with Online Stars:**
   - Team up with online stars to make online ads and expand business horizon.
