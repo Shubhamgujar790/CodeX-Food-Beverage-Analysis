@@ -14,19 +14,19 @@ I used MySQL for the in-depth querying of the dataset, extracting valuable infor
   - 60% of CodeX's customer base is male, indicating a robust presence among male consumers.
   
 - **Youthful Opportunity:**
-  - **Insight:** 56% of respondents fall into the young age bracket, offering an excellent chance to connect with the youth demographic.
+  - 56% of respondents fall into the young age bracket, offering an excellent chance to connect with the youth demographic.
 
 - **Effective Advertising Avenue:**
-  - **Insight:** Online ads emerge as the most impactful and cost-efficient method to engage our target audience.
+  - Online ads emerge as the most impactful and cost-efficient method to engage our target audience.
 
 - **Consumer Preference Profile:**
-  - **Insight:** Consumers lean towards energy drinks with caffeine and natural ingredients, aligning with the demand for healthier options.
+  - Consumers lean towards energy drinks with caffeine and natural ingredients, aligning with the demand for healthier options.
 
 - **Untapped Potential in Tier 2 Cities:**
-  - **Insight:** Tier 2 cities exhibit promising potential for expansion, representing untapped markets.
+  - Tier 2 cities exhibit promising potential for expansion, representing untapped markets.
 
 - **Purchase Preferences:**
-  - **Insight:** 45% favor purchasing from supermarkets, while 25% opt for online channels.
+  - 45% favor purchasing from supermarkets, while 25% opt for online channels.
 
 - **Health-Conscious Choices:**
-  - **Insight:** Consumers express a desire for healthier options, emphasizing preferences for reduced sugar and natural ingredients. 
+  - Consumers express a desire for healthier options, emphasizing preferences for reduced sugar and natural ingredients. 
