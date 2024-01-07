@@ -11,7 +11,7 @@ I used MySQL for the in-depth querying of the dataset, extracting valuable infor
 **Key Discoveries:**
 
 - **Demographic Strength:**
-  - **Insight:** 60% of CodeX's customer base is male, indicating a robust presence among male consumers.
+  - **** 60% of CodeX's customer base is male, indicating a robust presence among male consumers.
   
 - **Youthful Opportunity:**
   - **Insight:** 56% of respondents fall into the young age bracket, offering an excellent chance to connect with the youth demographic.
