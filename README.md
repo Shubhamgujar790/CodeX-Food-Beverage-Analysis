@@ -41,7 +41,7 @@ I used MySQL for the in-depth querying of the dataset, extracting valuable infor
   - Team up with online stars to make online ads and expand business horizon.
 
 - **Go Natural with the Drink:**
-  - Make our drink better by adding natural ingredients like green tea extract vitamin B that people like.
+  - Make our drink better by adding natural ingredients like green tea extract, Guarana, vitamin B that people like.
 
 - **Smart Prices for Big and Small Cities:**
   - Decide the prices in a smart way, making sure it's good for both big cities and smaller ones.
